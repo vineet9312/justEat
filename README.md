@@ -8,17 +8,18 @@ jsFiles - after transpilation of the code from ts files to js files, having all 
 node_modules - whatever changes are done to package.json file are reflected in the core node modules here 
 cucumber_report.html -  report generation as per cucumber format
 
-Project Title
+Project Title----
 just Eat food order website for Uk test automation
 
-Getting Started
+Getting Started-----
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
-Prerequisites
+Prerequisites----
   download node.js
   set node in system variables
   install protractor(npm install -g protractor, webdriver-manager update,webdriver manager start )
-  webdriver manager plugin
+  install typescript in the system
+  webdriver manager plugins
   IDE such as visualStudio or webstorm is required
   
 examples
